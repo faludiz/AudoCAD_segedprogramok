@@ -6,7 +6,7 @@ Az programot az APPLOAD vagy a VBALOAD parancs segítségével lehet betölteni.
 
 | Név | Leírás |
 | --- | --- |
-| fz_alahuz.dvb | Egysoros szöveg aláhúzása, vagy az aláhúzás megszüntetése |
+| fz_alahuz.dvb | Egysoros szöveg aláhúzása, vagy az aláhúzás megszüntetése https://youtu.be/vWgnjQgj9ZM |
 
 ## Támogatás
 
